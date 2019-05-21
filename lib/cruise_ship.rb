@@ -9,5 +9,5 @@ suite_e: "Crumpet the Elf"
 def select_winner(passengers)
   # add the code snippet here!
   winner = passengers[:suite_a]
-  return winner.join
+  return winner
 end
