@@ -5,4 +5,6 @@ def happy_birthday(birthday_kids)
     "Sarah" => 6,
     "Amanda" => 27
   }
+
+  birthday_kids.each do |key, value|
 end
